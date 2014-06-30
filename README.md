@@ -36,3 +36,6 @@
  - Pull requestを使おう ( http://www.slideshare.net/hirooooo/pull-request?qid=4adc29c0-13c0-4697-b685-a0eeb8ff9be1 ) (2014/4)
 
 
+-- 追記
+* ローカルで GitHub を構築！ Git リポジトリ管理ツール「GitLab」を Mac OS X にインストールしてみた
+ - http://dev.classmethod.jp/tool/gitlab-install-mac-os-x-mountain-lion/
